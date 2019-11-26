@@ -1,6 +1,9 @@
 # Dust-Sensor-Experiments-with-Arduino
 Some experiments with our new Arduino
 
+Trying this dust sensor experiment:
+* https://create.arduino.cc/projecthub/infoelectorials/project-010-arduino-grove-dust-sensor-ppd42ns-project-ab5f5e
+
 The links we will use for these experiments are as follow:
 * http://wiki.seeedstudio.com/Grove-Dust_Sensor/
 * https://www.seeedstudio.com/Grove-Dust-Sensor-PPD42NS.html

@@ -31,9 +31,9 @@
 
 rgb_lcd lcd;
 
-const int colorR = 0;
+const int colorR = 255;
 const int colorG = 255;
-const int colorB = 0;
+const int colorB = 255;
 
 void setup() 
 {
@@ -43,7 +43,7 @@ void setup()
     lcd.setRGB(colorR, colorG, colorB);
     
     // Print a message to the LCD.
-    lcd.print("hello, world!");
+    lcd.print("Daddy is poopy!");
 
     delay(1000);
 }

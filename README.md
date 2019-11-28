@@ -2,13 +2,13 @@
 Some experiments with our new Arduino
 
 Articles on the GP2Y1010AU0F:
-*https://maker.pro/arduino/projects/arduino-uno-sharp-dust-sensor-tutorial
+* https://maker.pro/arduino/projects/arduino-uno-sharp-dust-sensor-tutorial
 
 Testing the Shinyei PPD42NS:
-*http://irq5.io/2013/07/24/testing-the-shinyei-ppd42ns/ 
+* http://irq5.io/2013/07/24/testing-the-shinyei-ppd42ns/ 
 
 Archived test of dust sensor Shinyei PPD42NS:
-*https://web.archive.org/web/20150429204011/http://www.davidholstius.com/2012/06/12/this-side-up/
+* https://web.archive.org/web/20150429204011/http://www.davidholstius.com/2012/06/12/this-side-up/
 
 Trying this dust sensor experiment:
 * http://wiki.seeedstudio.com/Grove-Dust_Sensor/

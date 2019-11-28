@@ -1,6 +1,9 @@
 # Dust-Sensor-Experiments-with-Arduino
 Some experiments with our new Arduino
 
+Articles on the GP2Y1010AU0F
+*https://maker.pro/arduino/projects/arduino-uno-sharp-dust-sensor-tutorial
+
 Testing the Shinyei PPD42NS
 *http://irq5.io/2013/07/24/testing-the-shinyei-ppd42ns/ 
 

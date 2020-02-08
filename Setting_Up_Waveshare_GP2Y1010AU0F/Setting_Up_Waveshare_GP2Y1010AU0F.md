@@ -9,3 +9,5 @@ So I went with the code posted here - https://forum.mysensors.org/topic/6391/the
 Next, I needed to wire up the sensor. Keep in mind that I have purchased Waveshare's version of the sensor, which includes the required electronic components. So the blogs that describe how to wire up the basic GP2Y1010AU0F (e.g., https://www.instructables.com/id/How-to-Interface-With-Optical-Dust-Sensor/) are not directly applicable to me.
 
 The first thing I did was broke another sensor set, cannibalizing the header pins.
+
+![Header Pin](IMG_0239.JPEG "Cannibalizing Header Pins")

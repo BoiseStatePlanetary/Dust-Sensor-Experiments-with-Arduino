@@ -2,7 +2,7 @@
 Some experiments with our new Arduino
 
 Waveshare's wiki on the GP2Y1010AU0F:
-www.waveshare.com/wiki/Dust_Sensor
+* www.waveshare.com/wiki/Dust_Sensor
 
 Articles on the GP2Y1010AU0F:
 * Hooking up to Arduino - https://web.archive.org/web/20140530060749/http://sensorapp.net/sharp-dust-sensor-and-arduino/

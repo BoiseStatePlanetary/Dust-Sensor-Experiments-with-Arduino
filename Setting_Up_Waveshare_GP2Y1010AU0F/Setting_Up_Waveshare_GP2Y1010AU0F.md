@@ -2,7 +2,7 @@
 
 I started trying to set up the Waveshare GP2Y1010AU0F and decided to document the process (since I will undoubtedly goof up and need to figure out what I did).
 
-~~To start, I tried DLing the sketch provided by the manufacturer from https://www.waveshare.com/wiki/File:Dust-Sensor-code.7z. When I tried to unzip the Arduino file, it didn't work. ~~
+~~To start, I tried DLing the sketch provided by the manufacturer from https://www.waveshare.com/wiki/File:Dust-Sensor-code.7z. When I tried to unzip the Arduino file, it didn't work.~~
 
 ~~So I went with the code posted here - https://forum.mysensors.org/topic/6391/the-dust-sensor-is-now-finally-working.~~
 

@@ -10,4 +10,4 @@ Next, I needed to wire up the sensor. Keep in mind that I have purchased Wavesha
 
 The first thing I did was broke another sensor set, cannibalizing the header pins.
 
-![Header Pin](IMG_0239.JPEG "Cannibalizing Header Pins")
+![Header Pin](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Setting_Up_Waveshare_GP2Y1010AU0F/IMG_0239.jpg "Cannibalizing Header Pins")

@@ -13,3 +13,7 @@ Next, I needed to wire up the sensor. Keep in mind that I have purchased Wavesha
 The first thing I did was broke another sensor set, cannibalizing the header pins.
 
 ![Header Pin](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Setting_Up_Waveshare_GP2Y1010AU0F/IMG_0239.jpg "Cannibalizing Header Pins")
+
+I then stripped the plastic rings off the pins so that I had pins long enough (it seemed) to fit into both the sensor plugs and the ports on the Arduino.
+
+I then plugged the plugs as instructed on Waveshare's website, compiled, and uploaded the code, and the sensor began registering data.

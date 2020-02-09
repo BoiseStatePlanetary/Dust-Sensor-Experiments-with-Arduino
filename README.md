@@ -2,8 +2,9 @@
 Some experiments with our new Arduino
 
 Waveshare GP2Y1010AU0F:
+* Actually, the zipped file here does work - https://www.waveshare.com/wiki/File:Dust-Sensor-code.7z.
 * https://forum.mysensors.org/topic/6391/the-dust-sensor-is-now-finally-working/2 - There is some code on this website that purports to work.
-* www.waveshare.com/wiki/Dust_Sensor - Unfortunately, the 7z file that contains the required Arduino sketch seems corrupted.
+* ~~www.waveshare.com/wiki/Dust_Sensor - Unfortunately, the 7z file that contains the required Arduino sketch seems corrupted.~~
 
 Articles on the GP2Y1010AU0F:
 * Hooking up to Arduino - https://web.archive.org/web/20140530060749/http://sensorapp.net/sharp-dust-sensor-and-arduino/

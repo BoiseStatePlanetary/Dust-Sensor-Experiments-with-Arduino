@@ -8,6 +8,6 @@ I've posted the combined code that reads signals from both.
 
 Unfortunately, the calibration curves for the two sensors give measurements that are not directly comparable. 
 
-![alt text](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Comparing%20Results%20from%20Two%20Dust%20Sensors/GP2Y1010AU0F_Calibration_Curve.png "GP2Y1010AU0F Calibration Curve" height="50%" width="50%")
+![alt text](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Comparing%20Results%20from%20Two%20Dust%20Sensors/GP2Y1010AU0F_Calibration_Curve.png?v=4&s=200 "GP2Y1010AU0F Calibration Curve")
 
-![alt text](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Comparing%20Results%20from%20Two%20Dust%20Sensors/PPD42NS_Calibration_Curve.jpg "PPD42NS Calibration Curve" height="50%" width="50%")
+![alt text](https://github.com/BoiseStatePlanetary/Dust-Sensor-Experiments-with-Arduino/blob/master/Comparing%20Results%20from%20Two%20Dust%20Sensors/PPD42NS_Calibration_Curve.jpg?v=4&s=200 "PPD42NS Calibration Curve")

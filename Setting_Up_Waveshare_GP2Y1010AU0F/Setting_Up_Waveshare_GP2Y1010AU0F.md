@@ -1,7 +1,9 @@
 ### 2020 Feb 9
 The 400-mV cutoff means that ADC-values of 7 and below return densities of zero, while ADC-values of 8 and above give non-zero densities. The minium dust density that can be returned is therefore 5.94 ug/m^3. The next highest value (ADC = 9) corresponds to a density of 16.68 ug/m^3, and then ADC = 10 gives 27.42 ug/m^3. How useful will these measurements be?
 
-Metzger et al. (2011 - https://ui.adsabs.harvard.edu/abs/2011Icar..214..766M/abstract) say, ``In situ (mobile) sampling of 33 natural dust devil vortices reveals very high total suspended particle (TSP) mean values of 296 mg m -3 and fine dust loadings (PM10) mean values ranging from 15.1 to 43.8 mg m -3 (milligrams per cubic meter)''
+Metzger et al. (2011 - https://ui.adsabs.harvard.edu/abs/2011Icar..214..766M/abstract) say, "In situ (mobile) sampling of 33 natural dust devil vortices reveals very high total suspended particle (TSP) mean values of 296 mg/m^3 and fine dust loadings (PM10) mean values ranging from 15.1 to 43.8 mg/m^3." According the manufacturer's calibration curve, the sensor flatlines at 0.5 mg/m^3 and 3.5 V. 
+
+Looking at Ralph's notes from our previous deployment with the dust sensor, returned voltages did not exceed 1.5 V, so we will probably be OK.
 
 ### 2020 Feb 8 
 

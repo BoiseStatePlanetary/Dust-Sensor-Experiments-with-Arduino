@@ -1,6 +1,9 @@
 # Dust-Sensor-Experiments-with-Arduino
 Some experiments with our new Arduino
 
+Adafruit Data Logger Shield
+* How to assemble - https://learn.adafruit.com/adafruit-data-logger-shield
+
 Waveshare GP2Y1010AU0F:
 * Actually, the zipped file here does work - https://www.waveshare.com/wiki/File:Dust-Sensor-code.7z.
 * https://forum.mysensors.org/topic/6391/the-dust-sensor-is-now-finally-working/2 - There is some code on this website that purports to work.

@@ -25,7 +25,7 @@ Actually, that example isn't really relevant. Let's try plugging in the expansio
 
 Picture of dust sensor plugged in with expansion shield on top of data logger
 
-~~At least initially, I couldn't get the dust sensor to generate a signal if I had the expansion shield plugged in on top of the datalogger. Let's plug the expansion shield directly into the arduino and make sure *that* works. 
+~~At least initially, I couldn't get the dust sensor to generate a signal if I had the expansion shield plugged in on top of the datalogger. Let's plug the expansion shield directly into the arduino and make sure *that* works.~~
 
 ~~Picture of expansion shield and dust sensor plugged directly into arduino~~
 

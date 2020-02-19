@@ -35,3 +35,4 @@ That works fine!
 
 Now let's try writing the data to the SD card using File > Examples > SD > Datalogger.
 
+Definitely wrote a data file!

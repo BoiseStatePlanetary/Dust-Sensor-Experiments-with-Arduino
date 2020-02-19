@@ -8,7 +8,7 @@ Initially, I can see the clock using the RTClib example but am unable to reset t
 
 OK, that seems to have reset the clock, and I see in the serial monitor:
 
-`14:09:58.015 -> 2020/2/19 (Wednesday) 14:8:8
-14:09:58.015 ->  since midnight 1/1/1970 = 1582121288s = 18311d
-14:09:58.015 ->  now + 7d + 12h + 30m + 6s: 2020/2/27 2:38:14'
+> 14:09:58.015 -> 2020/2/19 (Wednesday) 14:8:8
+> 14:09:58.015 ->  since midnight 1/1/1970 = 1582121288s = 18311d
+> 14:09:58.015 ->  now + 7d + 12h + 30m + 6s: 2020/2/27 2:38:14'
 

@@ -10,6 +10,17 @@ That resulted in a code called Both_PPDs_pressure_datalogger.ino.
 Data file with control data will be called 20Feb21C.txt, and columns will be:
 datetime + ", " + String(exposed_concentration) + ", " + String(unexposed_concentration) + ", " + String(P) + ", " + String(T);
 
+Be sure you installed the BMP180 library from https://randomnerdtutorials.com/guide-for-bmp180-barometric-sensor-with-arduino/. That library is not available via Arduino's library manager.
+
+Couldn't get both PPDs working at once, so I'm going to plan to test them one at a time.
+
+I wrote PPD.ino files for each PPD and for each test (bagged and exposed). The only 
+difference between the files is that they save to different filenames - 
+* GreePPDE - PPD with green duck tape exposed to dust*
+* GreePPDB - PPD with green duck tape not exposed to dust (i.e., bagged)*
+* OrigPPDB - Paper-covered PPD not exposed to dust (i.e., bagged)*
+* OrigPPDE - Paper-covered PPD exposed to dust *
+
 ...
 
 2020 Feb 20

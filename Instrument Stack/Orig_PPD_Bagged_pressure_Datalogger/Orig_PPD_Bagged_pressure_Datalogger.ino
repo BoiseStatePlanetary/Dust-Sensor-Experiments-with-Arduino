@@ -187,7 +187,7 @@ void loop() {
   dataString = datetime + ", " + String(concentration) + ", " + String(P) + ", " + String(T);
   Serial.println(dataString);
   // if the file is available, write to it:
-  String filename = "20Feb21.txt";
+  String filename = "OrigPPDB.txt";
   Serial.println(filename);
 // Open log file
   File logfile = SD.open(filename, FILE_WRITE);

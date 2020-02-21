@@ -21,6 +21,13 @@ difference between the files is that they save to different filenames -
 * OrigPPDB - Paper-covered PPD not exposed to dust (i.e., bagged)*
 * OrigPPDE - Paper-covered PPD exposed to dust *
 
+Next, I tried to set up the Waveshare GP2 instrument. I referred to this website -
+https://www.waveshare.com/wiki/Dust_Sensor.
+
+Actually, I decided I won't have time to set up the Waveshare (it's 11:25a, and I have to
+check out at 12p). We also already flew it last year. So I'm going to wrap up and head out
+to the field.
+
 ...
 
 2020 Feb 20

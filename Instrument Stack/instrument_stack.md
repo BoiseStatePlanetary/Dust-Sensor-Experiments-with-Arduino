@@ -1,3 +1,17 @@
+2020 Feb 21
+
+In Vegas hotel room, trying to set up instrument stack.
+
+First thing I want to check is whether I can set up two PPDs at once. So I'm modifying
+the code instrument_stack/PPD_pressure_datalogger.ino to take data from two dust PPDs.
+
+That resulted in a code called Both_PPDs_pressure_datalogger.ino.
+
+Data file with control data will be called 20Feb21C.txt, and columns will be:
+datetime + ", " + String(exposed_concentration) + ", " + String(unexposed_concentration) + ", " + String(P) + ", " + String(T);
+
+...
+
 2020 Feb 20
 
 And now to try to stack all the instruments together and power from a battery. Let's start with using the battery.
@@ -15,4 +29,3 @@ OK, one issue with printing a timestamp is that the RTC seems to have a differen
 But in the RTC example sketch (File > Examples > RTClib > pcf8523):
 
 > Serial.begin(57600);
-

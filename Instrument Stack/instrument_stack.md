@@ -1,3 +1,15 @@
+2020 Feb 22
+
+In Death Valley, trying to set up the Waveshare GP2 according to this wiki - https://www.waveshare.com/wiki/Dust_Sensor.
+
+And then hooking up the BMP180 according to the website below. 
+
+(As an aside, the narrative on the randomnerd website about the BMP180 says to hook the BMP180 up to 5 V to power, 
+but the code that they provide explicitly says NOT to use 5 V. I opted to use the 3.3 V power supply for the BMP180
+and the 5 V for the Waveshare GP2.)
+
+
+
 2020 Feb 21
 
 In Vegas hotel room, trying to set up instrument stack.
